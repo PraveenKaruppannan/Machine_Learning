@@ -4,6 +4,7 @@ Created on Thu Aug 31 16:56:52 2023
 
 @author: PKA232
 """
+#pip install apyori
 
 # Import required package 
 from apyori import apriori
