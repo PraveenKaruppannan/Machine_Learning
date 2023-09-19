@@ -109,23 +109,3 @@ clf.fit(X_train, y_train)
 
 y_pred_class = clf.predict(X_test)
 accuracy_score(y_test, y_pred_class)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
